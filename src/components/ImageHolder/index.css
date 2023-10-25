@@ -1,0 +1,16 @@
+.background {
+    background-image: url("https://assets3.thrillist.com/v1/image/3102037/1584x1056/flatten;crop;webp=auto;jpeg_quality=50.jpg");
+    height: 75vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text {
+    position: absolute;
+    bottom: 100px;
+    right: 50px;
+    background-color: rgba(0, 0, 0, 0.7); /* Background color for the text */
+    color: #fff; /* Text color */
+    padding: 30px 40px; /* Adjust the padding as needed */
+}
